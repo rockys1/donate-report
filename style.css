@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.back-style{
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+   
+    
+}
+#font-style{
+    font-family: 'Marck Script', cursive;
+    font-size: 46px;
+    color:rgb(238, 173, 88);
+    
+}
+.color-add{
+    color: azure;
+    text-shadow: 2px 2px 4px rgb(46, 45, 45);
+}
+.position{
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+
+.button-style{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(252, 76, 1), rgb(136, 0, 0));
+    padding: 10px 30px;
+    color: aliceblue;
+    font-weight: 700;
+    border-radius: 50px;
+    
+}
