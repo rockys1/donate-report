@@ -6,9 +6,6 @@ body{
     background-image: url(images/donation9.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    text-align: center;
-   
-    
 }
 #font-style{
     font-family: 'Marck Script', cursive;
@@ -23,6 +20,7 @@ body{
 .position{
     padding-top: 100px;
     padding-bottom: 200px;
+    text-align: center;
 }
 
 .button-style{
@@ -31,6 +29,54 @@ body{
     padding: 10px 30px;
     color: aliceblue;
     font-weight: 700;
-    border-radius: 50px;
+    border-radius: 50px;  
+}
+
+.set-position{
+    text-align: center;
+    padding-top: 50px;
+}
+.box-line{
+    display: flex;
     
+}
+.inline-box1{
+    border-radius: 10px;
+    padding: 20px 30px;
+    margin-left: 600px;
+    text-align: center;
+    text-decoration:dashed;
+}
+.inline-box2{
+    border: 5px solid rgb(183, 255, 1);
+    background-color: rgb(236, 255, 205);
+    border-radius: 10px;
+    padding: 20px 30px;
+    margin-left: 20px;
+    text-align: center;
+    text-decoration:dashed;
+}
+#add-color{
+    color: rgb(113, 153, 4);
+}
+.inline-box3{
+    border-radius: 10px;
+    padding: 20px 30px;
+    margin-left: 20px;
+    text-align: center;
+    text-decoration:dashed;
+}
+.inline-box4{
+    border-radius: 10px;
+    padding: 20px 25px;
+    margin-left: 20px;
+    text-align: center;
+    text-decoration:dashed;
+}
+.inline-box5{
+    border-radius: 10px;
+    padding: 20px 20px;
+    margin-left: 20px;
+    text-align: center;
+    text-decoration:dashed;
 }
