@@ -87,7 +87,7 @@ body{
 .inline-box5{
     border-radius: 10px;
     padding: 20px 20px;
-    margin-left: 20px;
+    margin-left: 280px;
     text-align: center;
     text-decoration:dashed;
     font-size: 30px;
@@ -98,7 +98,7 @@ body{
 }
 hr{
     width: 970px;
-    margin-left: 180px;
+    margin-left: 280px;
     border-width: 2px;
 
 }
@@ -140,8 +140,8 @@ hr{
 }
 
 .text-style{
-    width: 50%;
-    margin-left: 100px;
+    width: 40%;
+    margin-left: 300px;
     text-align: justify;
 }
 
