@@ -94,13 +94,12 @@ body{
 }
 .other-col{
     text-align: center;
-    color: gray;
+    color: rgb(188, 189, 178);
 }
 hr{
     width: 970px;
     margin-left: 280px;
     border-width: 2px;
-
 }
 
 .side-line{
