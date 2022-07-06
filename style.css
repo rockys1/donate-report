@@ -144,9 +144,11 @@ hr{
     margin-left: 300px;
     text-align: justify;
 }
-
+.aline{
+    text-align: left;
+}
 .resize{
-    width: 50%;
+    width: 100%;
     margin-right: 30px;
     margin-left: 100px;
 }
