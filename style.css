@@ -50,7 +50,7 @@ body{
 .inline-box1{
     border-radius: 10px;
     padding: 20px 30px;
-    margin-left: 100px;
+    
     text-align: center;
     text-decoration:dashed;
     font-size: 30px;
@@ -141,7 +141,7 @@ hr{
 
 .text-style{
     width: 50%;
-    margin-left: 340px;
+    margin-left: 100px;
     text-align: justify;
 }
 
