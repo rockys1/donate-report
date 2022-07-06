@@ -8,14 +8,16 @@ body{
     background-size: cover;
 }
 #font-style{
-    font-family: 'Marck Script', cursive;
-    font-size: 46px;
-    color:rgb(238, 173, 88);
+    font-family: 'Caveat', cursive;
+    font-size: 80px;
+    color: rgb(191, 255, 1);
+    text-shadow: 1px 1px 2px black;
     
 }
 .color-add{
     color: azure;
     text-shadow: 2px 2px 4px rgb(46, 45, 45);
+    font-size: 20px;
 }
 .position{
     padding-top: 100px;
@@ -28,12 +30,16 @@ body{
     background-image: linear-gradient(rgb(205, 255, 4), rgb(44, 85, 3));
     padding: 15px 30px;
     color: aliceblue;
-    font-weight: 700;
-    border-radius: 40px;  
+    font-weight: 700px;
+    border-radius: 40px; 
+    
 }
 
 .gave{
     margin-top: 100px;
+}
+.font-big{
+    font-size: 40px;
 }
 .set-position{
     text-align: center;
@@ -44,9 +50,10 @@ body{
 .inline-box1{
     border-radius: 10px;
     padding: 20px 30px;
-    margin-left: 600px;
+    margin-left: 455px;
     text-align: center;
     text-decoration:dashed;
+    font-size: 30px;
 }
 .inline-box2{
     border: 5px solid rgb(183, 255, 1);
@@ -56,6 +63,7 @@ body{
     margin-left: 20px;
     text-align: center;
     text-decoration:dashed;
+    font-size: 30px;
 }
 #add-color{
     color: rgb(113, 153, 4);
@@ -66,6 +74,7 @@ body{
     margin-left: 20px;
     text-align: center;
     text-decoration:dashed;
+    font-size: 30px;
 }
 .inline-box4{
     border-radius: 10px;
@@ -73,6 +82,7 @@ body{
     margin-left: 20px;
     text-align: center;
     text-decoration:dashed;
+    font-size: 30px;
 }
 .inline-box5{
     border-radius: 10px;
@@ -80,14 +90,15 @@ body{
     margin-left: 20px;
     text-align: center;
     text-decoration:dashed;
+    font-size: 30px;
 }
 .other-col{
     text-align: center;
     color: gray;
 }
 hr{
-    width: 670px;
-    margin-left: 625px;
+    width: 970px;
+    margin-left: 480px;
     border-width: 2px;
 
 }
@@ -128,9 +139,6 @@ hr{
     height: 320px;
 }
 
-#font-big{
-    font-size: 40px;
-}
 .text-style{
     width: 50%;
     margin-left: 340px;
@@ -151,6 +159,7 @@ hr{
 .color-white{
     color: rgb(135, 154, 169);
     font-size: 30px;
+    font-family: 'Marck Script', cursive;
 }
 #col-org{
     color: rgb(255, 153, 0);
