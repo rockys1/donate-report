@@ -90,3 +90,39 @@ hr{
     border-width: 2px;
 
 }
+
+.side-line{
+    background-color: rgb(236, 255, 205);
+    border-radius: 10px;
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-left: 100px;
+    text-align: center;
+    text-decoration:dashed;
+    width: 2000px;
+    height: 300px;
+}
+.side-line1{
+    background-color: rgb(255, 215, 244);
+    border-radius: 10px;
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 30px;
+    text-align: center;
+    text-decoration:dashed;
+    width: 2000px;
+    height: 300px;
+}
+.side-line2{
+    background-color: rgb(213, 235, 255);
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 20px;
+    margin-left: 30px;
+    margin-right: 100px;
+    text-align: center;
+    text-decoration:dashed;
+    width: 2000px;
+    height: 320px;
+}
