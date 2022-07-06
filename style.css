@@ -50,7 +50,7 @@ body{
 .inline-box1{
     border-radius: 10px;
     padding: 20px 30px;
-    margin-left: 455px;
+    margin-left: 100px;
     text-align: center;
     text-decoration:dashed;
     font-size: 30px;
@@ -98,45 +98,45 @@ body{
 }
 hr{
     width: 970px;
-    margin-left: 480px;
+    margin-left: 180px;
     border-width: 2px;
 
 }
 
 .side-line{
     background-color: rgb(236, 255, 205);
+    border : 2px solid rgb(236, 255, 205);
     border-radius: 10px;
     padding: 30px;
     margin-top: 50px;
     margin-left: 100px;
     margin-left: 100px;
     text-align: center;
-    text-decoration:dashed;
     width: 2000px;
-    height: 300px;
+    height: 400px;
 }
 .side-line1{
     background-color: rgb(255, 215, 244);
+    border : 2px solid rgb(255, 215, 244) ;
     border-radius: 10px;
     padding: 30px;
     margin-top: 50px;
     margin-left: 30px;
     text-align: center;
-    text-decoration:dashed;
     width: 2000px;
-    height: 300px;
+    height: 400px;
 }
 .side-line2{
     background-color: rgb(213, 235, 255);
+    border : 2px solid rgb(213, 235, 255);
     border-radius: 10px;
     margin-top: 50px;
-    padding: 20px;
+    padding: 30px;
     margin-left: 30px;
     margin-right: 100px;
     text-align: center;
-    text-decoration:dashed;
     width: 2000px;
-    height: 320px;
+    height: 400px;
 }
 
 .text-style{
